@@ -18,7 +18,6 @@ public class TestLoginTC1 {
         driver.findElement(By.xpath("//input[@id='input-password']")).sendKeys("Aq@1234567890");
         driver.findElement(By.xpath("//input[@value='Login']")).click();
         driver.quit();
-        
     }
 
 }
