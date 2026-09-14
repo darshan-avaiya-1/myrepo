@@ -1,0 +1,3 @@
+tests\TestLoginTC1.class
+utils\ConfigReader.class
+utils\DriverManager.class
