@@ -19,6 +19,7 @@ public class TestLoginTC1 {
         driver.findElement(By.xpath("//input[@value='Login']")).click();
         driver.quit();
         
+        
     }
 
 }
